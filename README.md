@@ -109,7 +109,7 @@ Ensure that both client and server are running before launching tests.
 
 A full walkthrough video demonstrating the component and end-to-end test execution can be found here:
 
-[Watch the walkthrough video]([https://your-video-link.com](https://youtu.be/gYbW1L2WIzA))
+[Walkthrough video]([https://www.youtube.com/watch?v=gYbW1L2WIzA))
 
 The video covers:
 
